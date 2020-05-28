@@ -10,7 +10,7 @@ This program is meant to be ran on a **macOS** system.
 
 ## Instructions
 
-To run this program, open a terminal and navigate to the directory where the program Exists. After compiling main.c on a macOS system, run the program from the command line with a valid path to a text file that you wish to parse. e.g *./a.out TextFile.txt*
+To run this program, open a terminal and navigate to the directory where the program exists. After compiling main.c on a macOS system, run the program from the command line with a valid path to a text file that you wish to parse. e.g *./a.out TextFile.txt*
 
 ## Error Handling
 
